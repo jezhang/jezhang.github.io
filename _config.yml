@@ -70,7 +70,7 @@ disqus_username: jezhang
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "爱单车，爱摄影，准备好了吗。"
-sidebar-avatar: /img/avatar-jean.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
