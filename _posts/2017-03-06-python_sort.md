@@ -4,7 +4,7 @@ title:      "Python实现七种排序算法"
 subtitle:   "冒泡，选择，插入，希尔，快速，归并，堆"
 date:       2017-03-06 21:44:00
 author:     "jezhang"
-header-img: "https://asdfex.oss-cn-qingdao.aliyuncs.com/jezhang.github.io/img/post-bg-css.jpg"
+header-img: "https://asdfex.oss-cn-qingdao.aliyuncs.com/jezhang.github.io/img/post-bg-digital-native.jpg"
 catalog: true
 tags:
     - Algorithm
