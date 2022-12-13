@@ -3,7 +3,7 @@ layout:     post
 title:      "PostgresSQL SQL调优技巧"
 date:       2017-06-06 21:44:00
 author:     "jezhang"
-header-img: "https://asdfex.oss-cn-qingdao.aliyuncs.com/jezhang.github.io/img/post-bg-digital-native.jpg"
+header-img: "https://asdfex.oss-cn-qingdao.aliyuncs.com/jezhang.github.io/img/post-bg-unix-linux.jpg"
 catalog: true
 tags:
     - postgres
