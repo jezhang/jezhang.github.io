@@ -95,7 +95,7 @@
 {% if page.title == 'Archive' %}
 <!-- jquery.tagcloud.js -->
 <script>
-    async('{{ "/js/jquery.tagcloud.js" | prepend: site.baseurl }}', function () {
+    async('{{ "https://asdfex.oss-cn-qingdao.aliyuncs.com/jezhang.github.io/js/jquery.tagcloud.js" | prepend: site.baseurl }}', function () {
         $.fn.tagcloud.defaults = {
             //size: {start: 1, end: 1, unit: 'em'},
             color: { start: '#bbbbee', end: '#2f93b4' },
@@ -103,7 +103,7 @@
         $('#tag_cloud a').tagcloud();
     })
 </script>
-<script src='{{ "/js/archive.js " | prepend: site.baseurl }}'></script>
+<script src='{{ "https://asdfex.oss-cn-qingdao.aliyuncs.com/jezhang.github.io/js/archive.js " | prepend: site.baseurl }}'></script>
 {% endif %}
 
 <!--fastClick.js -->
@@ -201,7 +201,7 @@
      * Doc: https://github.com/davist11/jQuery-One-Page-Nav
      * Fork by Hux to support padding
      */
-    async("{{ '/js/jquery.nav.js' | prepend: site.baseurl }}", function () {
+    async("{{ 'https://asdfex.oss-cn-qingdao.aliyuncs.com/jezhang.github.io/js/jquery.nav.js' | prepend: site.baseurl }}", function () {
         $('.catalog-body').onePageNav({
             currentClass: "active",
             changeHash: !1,
