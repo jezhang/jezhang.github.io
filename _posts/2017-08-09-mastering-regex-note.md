@@ -6,8 +6,7 @@ author:     "jezhang"
 header-img: "https://asdfex.oss-cn-qingdao.aliyuncs.com/jezhang.github.io/img/post-bg-miui-ux.jpg"
 catalog: true
 tags:
-    - Linux
-    - Windows
+    - Regex
 ---
 
 
