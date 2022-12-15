@@ -8,6 +8,7 @@ header-img: "https://asdfex.oss-cn-qingdao.aliyuncs.com/jezhang.github.io/img/po
 catalog: true
 tags:
     - Algorithm
+    - Python
 ---
 
 > “排序算法可以说是数据结构与算法当中最为基础的部分”

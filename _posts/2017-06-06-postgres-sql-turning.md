@@ -6,7 +6,8 @@ author:     "jezhang"
 header-img: "https://asdfex.oss-cn-qingdao.aliyuncs.com/jezhang.github.io/img/post-bg-unix-linux.jpg"
 catalog: true
 tags:
-    - postgres
+    - 数据库
+    - 学习笔记
 ---
 
 

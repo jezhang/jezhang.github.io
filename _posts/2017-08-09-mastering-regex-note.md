@@ -6,7 +6,7 @@ author:     "jezhang"
 header-img: "https://asdfex.oss-cn-qingdao.aliyuncs.com/jezhang.github.io/img/post-bg-miui-ux.jpg"
 catalog: true
 tags:
-    - Regex
+    - 学习笔记
 ---
 
 
@@ -390,3 +390,9 @@ tags:
 
 <pre>
 "/(.*?at)/" => <a href="#learn-regex"><strong>The fat</strong></a> cat sat on the mat. </pre>
+
+
+## Regex cheet sheet
+
+
+![regex](https://asdfex.oss-cn-qingdao.aliyuncs.com/jezhang.github.io/img/in-post/regex-cheat-sheet.jpg)
